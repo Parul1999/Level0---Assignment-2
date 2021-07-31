@@ -2,6 +2,7 @@
 CLI - QUIZ APP
 
 It's a CLI App consisting of G.K Questions .
-It has 3 Levels. 
+It has _3_ Levels. 
 
-As soon as you beat the HIGHEST SCORE send the Screenshot !!
+As soon as you beat the **HIGHEST SCORE** send the Screenshot !!
+
